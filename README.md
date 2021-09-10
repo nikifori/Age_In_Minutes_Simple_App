@@ -1,1 +1,1 @@
-# Age in minutes, a simple app.
+# Age In Minutes, a simple app.
